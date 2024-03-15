@@ -1,0 +1,127 @@
+.lo{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(10, 10, 10);
+}
+
+.lm{
+   
+}
+/* naruto */
+
+
+.icon a{
+    display: inline-flex;
+    width: 250px;
+    height: 270px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 40px;
+   
+    margin: 15px;
+    box-shadow:0 10px 15px   rgb(46, 116, 207);
+    background-size: 100% 200%;
+    background-position: 0% 0%;
+    transition: background-position 0.5s, color 0.5s;
+}
+
+
+/* sukuna */
+
+
+
+
+
+.ab a{
+    display: inline-flex;
+    width: 250px;
+    height: 270px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 40px;
+   
+    margin: 15px;
+    box-shadow:0 10px 15px   rgb(192, 17, 17);
+    background-size: 100% 200%;
+    background-position: 0% 0%;
+    transition: background-position 0.5s, color 0.5s;
+}
+
+
+
+
+
+/* tanjiro */
+
+
+.bc a{
+    display: inline-flex;
+    width: 250px;
+    height: 270px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 40px;
+   
+    margin: 15px;
+    box-shadow:0 10px 10px   rgb(12, 112, 91);
+    background-size: 100% 200%;
+    background-position: 0% 0%;
+    transition: background-position 0.5s, color 0.5s;
+}
+
+
+/* end3 */
+
+
+.icon a{
+color: rgb(46, 116, 207);
+font-style: oblique;
+background-image: url(https://media.licdn.com/dms/image/D5622AQF5am9cFmrIoA/feedshare-shrink_800/0/1710166999485?e=1712793600&v=beta&t=mTrvzacSVvW8IqFVTlCd0IFXnopOOvYJPLN3c_QoA8s);}
+
+.ab a{
+    color:  rgb(192, 17, 17);
+    font-style: oblique;
+    background-image: url(https://media.licdn.com/dms/image/D5622AQEgWf30OE_o-w/feedshare-shrink_800/0/1710160499840?e=1712793600&v=beta&t=33XQdi3KKf8SnHrnHygRlfZm7EDYe6uptHEbTAJWlWg);}
+
+.bc a{
+        color: rgb(12, 112, 91);
+        font-style: oblique;
+        background-image: url(https://media.licdn.com/dms/image/D5622AQH7ha_oFb8WJA/feedshare-shrink_800/0/1710212299763?e=1713398400&v=beta&t=HRMPTuhnG3jLNfU3Rn_xIHS-p7FYFJg1j1g2IyZc7Pk);}
+
+
+
+
+
+/* hover start */
+
+        
+
+            .icon a:hover{
+                background-position: 90% 100%;
+                color:transparent;
+            }
+
+
+
+            .ab a:hover{
+                background-position: 100% 100%;
+                color:transparent;
+               
+            }
+
+
+
+            .bc a:hover{
+                background-position: 100% 100%;
+                color:transparent;
+            }
+                
+                
+            /* hover end */
+           
